@@ -3,7 +3,7 @@
 
 ![header](images/header.png)
 
-This project primarily dealt with using the Pandas library in Python to perform Principal Component Analysis (PCA) on a dataset retrieved from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).  Once the data was prepared, it was fed into SciKit Learn’s unsupervised machine-learning algorithm to group clusters of cryptocurrencies together and visualize the results.
+This project primarily dealt with using the Pandas library in Python to perform Principal Component Analysis (PCA) on a dataset retrieved from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).  Once the data was prepared, over 500 activily trading cryptocurencies were fed into SciKit Learn’s unsupervised machine-learning algorithm to identify clusters based on total coins mined and total supply of coins, and visualize the results.
 
 
 # Overview
