@@ -29,5 +29,12 @@ The same data can be visualized as a scatterplot as well:
 
 The results of the unsupervised machine learning clearly demonstrate that the crypt-currencies fall into discrete groups.  For future analysis, including feeding data into a supervised machine learning model to make predictions, there is a good case to make for removing the two outliers in the data to focus the clustering.  After removing the two outlier cryptocurrencies ‘BitTorrent’ and ‘TurtleCoin’ and re-running the analysis in the `2nd_pre-processesing` notebook, the following results were returned which appears much better suited for further analysis.
 
+In three-deminsions, the clusterings remain failrly similar, 
+
+![header](images/2nd_3_d.png)
+
+But ploted in two-demensions the effects of removing the two outliers become much clearer:
+
+
 ![header](images/22d_ML_pass.png)
 
